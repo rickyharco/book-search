@@ -1,6 +1,6 @@
 # Data Analytics
 ## 1. Foundation
-### Introduction data analytis
+### Introduction to data analytis
 ### All about analytical thinking
 ### The wonderful world of data
 ### Setup you toolbox
