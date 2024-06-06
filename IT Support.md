@@ -29,7 +29,7 @@
 ### Final project
 ## 5. IT Security: Defense Against The Digital Dark Arts
 ### Understanding security threats
-### Crypology
+### Cryptology
 ### The 3A's cybersecurity (Authentication, Authorization, Accounting)
 ### Securing your network
 ### Defense in depth
