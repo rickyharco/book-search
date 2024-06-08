@@ -1,4 +1,4 @@
-# Daftar
+### Daftar
 
 <details>
   <summary>Daftar Belanjaan</summary>
